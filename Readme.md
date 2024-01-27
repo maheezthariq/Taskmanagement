@@ -1,10 +1,10 @@
 Task Management System
 
-Features:
-Login Page
-Home Page
-Task (CRUD Features)
-Task List Page
+Features:<br />
+Login Page<br />
+Home Page<br />
+Task (CRUD Features)<br />
+Task List Page<br />
 
 Running Process:
 Create a new database name it "tms_db".
